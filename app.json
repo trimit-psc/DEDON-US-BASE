@@ -1,0 +1,45 @@
+{
+  "id": "2c767492-6fc3-4f05-a66d-83c15ef0d755",
+  "name": "DEDON-US-BASE",
+  "publisher": "Trimit DE GmbH",
+  "version": "22.0.2.1",
+  "brief": "",
+  "description": "Dedon US Base App",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":
+  [{
+    "id": "94927c12-6061-4e3f-b07d-ce1b66584585",
+    "publisher": "TRIMIT Development A/S",
+    "version": "22.2.8380.5807",
+    "name": "TRIMIT"
+  },
+  {
+    "id": "013f57a6-c377-4e67-b466-dde24f81f863",
+    "publisher": "DEDON JH WMS",
+    "version": "22.0.0.0",
+    "name": "TRIMIT"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 51000,
+      "to": 51300
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

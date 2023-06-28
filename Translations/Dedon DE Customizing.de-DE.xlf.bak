@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de" original="DEDON DE Customizing">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2053216347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000 DDN Setup Caption</source>
+          <target state="translated">DEDON Einrichtung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Property Caption</note>
+        <note>Table DDN Setup - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 1065312324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000:DDN Setup | Field:nable Bom Creation for BI | Caption</source>
+          <target state="translated">Artikelnr. des Möbels vor Entfaltung der Stückliste ermitteln</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field enable Bom Creation for BI - Property Caption</note>
+        <note>Table DDN Setup - Field enable Bom Creation for BI - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 460556690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000:DDN Setup | Field:Enable Price/Cost Determin. | Caption</source>
+          <target state="translated">Katalogpreisberechnung aktivieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field Enable Price/Cost Determin. - Property Caption</note>
+        <note>Table DDN Setup - Field Enable Price/Cost Determin. - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 2166960770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Fabric Item Categories</source>
+          <target state="translated">Filter Artikelkategorien Gewebeverbrauch</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field Fabric Item Categories - Property Caption</note>
+        <note>Table DDN Setup - Field Fabric Item Categories - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 2705744293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000.Field1:IconError.Caption</source>
+          <target state="translated">Icon Fehler</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field IconError - Property Caption</note>
+        <note>Table DDN Setup - Field IconError - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 1258388025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000.Field1:IconOk.Caption</source>
+          <target state="translated">Icon OK</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field IconOk - Property Caption</note>
+        <note>Table DDN Setup - Field IconOk - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 125212819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000.Field2:IconWarning.Caption</source>
+          <target state="translated">Icon Warnung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field IconWarning - Property Caption</note>
+        <note>Table DDN Setup - Field IconWarning - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 970416965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000.Field1:PK.Caption</source>
+          <target state="translated">Primärschlüssel</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field PK - Property Caption</note>
+        <note>Table DDN Setup - Field PK - Property Caption</note></trans-unit>
+        <trans-unit id="Table 2053216347 - Field 3719346417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Table51000:DDN Setup | Field:Search Table Code ColorGroup | Caption</source>
+          <target state="translated">Suchtabelle Farb-Auswahlgruppen </target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Setup - Field Search Table Code ColorGroup - Property Caption</note>
+        <note>Table DDN Setup - Field Search Table Code ColorGroup - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 4031714622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Echo Message</source>
+          <target state="translated">Nachricht MESSAGE ausgeben</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Echo Message - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Echo Message - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2172743916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 1 | Caption</source>
+          <target state="translated">Referenz 1</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 1 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 1 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2107284644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 10 | Caption</source>
+          <target state="translated">Referenz 10</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 10 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 10 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1469588027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 11 (Text) | Caption</source>
+          <target state="translated">Referenz 11</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 11 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 11 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2810440533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 2 | Caption</source>
+          <target state="translated">Referenz 2</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 2 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 2 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3448137150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 3 | Caption</source>
+          <target state="translated">Referenz 3</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 3 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 3 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3279228127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 4 | Caption</source>
+          <target state="translated">Referenz 4</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 4 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 4 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3916924744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 5 | Caption</source>
+          <target state="translated">Referenz 5</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 5 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 5 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 259654065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 6 | Caption</source>
+          <target state="translated">Referenz 6</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 6 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 6 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 897350682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 7 | Caption</source>
+          <target state="translated">Referenz 7</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 7 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 7 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2341652939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 8 | Caption</source>
+          <target state="translated">Referenz 8</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 8 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 8 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2979349556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Field Reference 9 | Caption</source>
+          <target state="translated">Referenz 9</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Field Reference 9 - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Field Reference 9 - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1333462370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Function Compar To Workdate</source>
+          <target state="translated">Vergleiche mit Arbeitsdatum (deprecated)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Function Compar To Workdate - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Function Compar To Workdate - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 182820326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Function Compare Dates</source>
+          <target state="translated">Vergleiche zwei Datumswerte</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Function Compare Dates - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Function Compare Dates - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3977415453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Function InitDependingVarDim | Caption</source>
+          <target state="translated">Vorbelegung bei abhängigen VarDims errechnen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Function InitDependingVarDim - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Function InitDependingVarDim - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2130542192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Function MakeDate</source>
+          <target state="translated">Datum aus Integern erzeugen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Function MakeDate - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Function MakeDate - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1213638884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>HELLOWORLD</source>
+          <target state="translated">Hallo Welt</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field HELLOWORLD - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field HELLOWORLD - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Primary Key</source>
+          <target state="translated">Primärschlüssel</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Primary Key - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Primary Key - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 371348633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Remember Set Item No.</source>
+          <target state="translated">Set-Artikelnr in nächste VK-Zeile schreiben</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Remember Set Item No. - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Remember Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1568659232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Boolean) | Caption</source>
+          <target state="translated">Ergebnis (Code)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Boolean) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Boolean) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3557133567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Code) | Caption</source>
+          <target state="translated">Ergebnis (Boolean)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Code) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Code) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 1653464960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Date) | Caption</source>
+          <target state="translated">Ergebnis (Date)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Date) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Date) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3653016075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Result (DateTime)</source>
+          <target state="translated">Ergebnis (DateTime)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (DateTime) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (DateTime) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3871475797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Decimal) | Caption</source>
+          <target state="translated">Ergebnis (Decimal)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Decimal) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Decimal) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 2082712834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Integer) | Caption</source>
+          <target state="translated">Ergebnis (Integer)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Integer) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Integer) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 3877923223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Text) | Caption</source>
+          <target state="translated">Ergebnis (Text)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Text) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Text) - Property Caption</note></trans-unit>
+        <trans-unit id="Table 1697039820 - Field 4187820455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Tab51001:DDN Trimit Formula Functions | Field:Result (Time) | Caption</source>
+          <target state="translated">Ergebnis (Time)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDN Trimit Functions - Field Result (Time) - Property Caption</note>
+        <note>Table DDN Trimit Functions - Field Result (Time) - Property Caption</note></trans-unit>
+        <trans-unit id="Codeunit 3104347483 - NamedType 2034112133" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Codeunit51007:DDN Purchase Trigger Pool | Label:ConfirmUpdateOrigQtyDlg</source>
+          <target state="translated">Die Ursprungsmenge wurde bereits in der Vergangenheit festgelegt. Soll sie für %1 Zeilen überschrieben werden?</target><note from="Developer" annotates="general" priority="2">für die Abfrage bei Freigabe eines EK-Belegs</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DDN Purchase Trigger Pool - NamedType ConfirmUpdateOrigQtyDlg</note>
+        <note>für die Abfrage bei Freigabe eines EK-Belegs
+Codeunit DDN Purchase Trigger Pool - NamedType ConfirmUpdateOrigQtyDlg
+für die Abfrage bei Freigabe eines EK-Belegs
+Codeunit DDN Purchase Trigger Pool - NamedType ConfirmUpdateOrigQtyDlg
+für die Abfrage bei Freigabe eines EK-Belegs
+Codeunit DDN Purchase Trigger Pool - NamedType ConfirmUpdateOrigQtyDlg</note></trans-unit>
+        <trans-unit id="Page 3887075585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Pag51001:DDN Availibility Crosscheck | Caption</source>
+          <target state="translated">DEDON Verfügbarkeitsprüfung Verkauf</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Availibility Crosscheck - Property Caption</note>
+        <note>Page DDN Availibility Crosscheck - Property Caption</note></trans-unit>
+        <trans-unit id="Page 3887075585 - Action 95334823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Pag51001:DDN Availibility Crosscheck | Action:CalculateAvailibility | Caption</source>
+          <target state="translated">Verfügbarkeiten errechnen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Availibility Crosscheck - Action CalculateAvailibility - Property Caption</note>
+        <note>Page DDN Availibility Crosscheck - Action CalculateAvailibility - Property Caption</note></trans-unit>
+        <trans-unit id="Page 3887075585 - Action 95334823 - Method 1377591017 - NamedType 2536432010" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Pag51001:DDN Availibility Crosscheck | Action:CalculateAvailibility | SummaryMessage</source>
+          <target state="translated">Zu %1 Vekraufszeilen wurden neu Verfügbarkeiten errechnet. Bei %2 Zeilen haben sich keine Verfügbarkeiten verändert.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Availibility Crosscheck - Action CalculateAvailibility - Method OnAction - NamedType SummaryMessage_lLbl</note>
+        <note>Page DDN Availibility Crosscheck - Action CalculateAvailibility - Method OnAction - NamedType SummaryMessage_lLbl</note></trans-unit>
+        <trans-unit id="Page 1228307754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51002:DDN Extended Item List | Caption</source>
+          <target state="translated">DEDON erweiterte Artikelliste</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Extended Item List - Property Caption</note>
+        <note>Page DDN Extended Item List - Property Caption</note></trans-unit>
+        <trans-unit id="Page 1228307754 - Control 71183407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51002:DDN Extended Item List | Field:AvailabeQty | Caption</source>
+          <target state="translated">Verfügbare Menge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Extended Item List - Control AvailableQty - Property Caption</note>
+        <note>Page DDN Extended Item List - Control AvailableQty - Property Caption</note></trans-unit>
+        <trans-unit id="Page 3246324801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51017:DDN Item Detail Sales Factbox | Caption</source>
+          <target state="translated">Artikeldetails DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Item Detail Sales Factbox - Property Caption</note>
+        <note>Page DDN Item Detail Sales Factbox - Property Caption</note></trans-unit>
+        <trans-unit id="Page 3246324801 - Method 3245603402 - NamedType 3700958666" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>not applicable</source>
+          <target state="translated">nicht zutreffend</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Item Detail Sales Factbox - Method OnAfterGetRecord - NamedType FabricConsumptionNotApplicableLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3246324801 - Control 587460950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51017:DDN Item Detail Sales Factbox | Group:ItemDataGroup | Caption</source>
+          <target state="translated">Artikeldaten</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Item Detail Sales Factbox - Control ItemDataGroup - Property Caption</note>
+        <note>Page DDN Item Detail Sales Factbox - Control ItemDataGroup - Property Caption</note></trans-unit>
+        <trans-unit id="Page 3246324801 - Control 406390334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Planning Status</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Item Detail Sales Factbox - Control DDN Item Planning Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3246324801 - Control 4260042313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fabrics?</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Item Detail Sales Factbox - Control Fabric Consumption YN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2053216347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Caption</source>
+          <target state="translated">DEDON Einrichtung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Property Caption</note>
+        <note>Page DDN Setup - Property Caption</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 3465370156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Group:Icons | Caption</source>
+          <target state="translated">Icons</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control Icons - Property Caption</note>
+        <note>Page DDN Setup - Control Icons - Property Caption</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 2705744293 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:IconError | ToolTip</source>
+          <target state="translated">Symbol das dem Benutzer signalisiert, dass ein Konflikt vorliegt.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control IconError - Property ToolTip</note>
+        <note>Page DDN Setup - Control IconError - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 1258388025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:IconOk | ToolTip</source>
+          <target state="translated">Symbol das dem Benutzer signalisiert, dass kein Konflikt vorliegt.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control IconOk - Property ToolTip</note>
+        <note>Page DDN Setup - Control IconOk - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 125212819 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:IconWarning | ToolTip</source>
+          <target state="translated">Symbol das dem Benutzer signalisiert, dass etwas zu beobachten oder zu prüfen ist.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control IconWarning - Property ToolTip</note>
+        <note>Page DDN Setup - Control IconWarning - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 805352110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Group:PriceAndCostGroup | Caption</source>
+          <target state="translated">EK-Kosten und VK-Preise</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control PriceAndCostGroup - Property Caption</note>
+        <note>Page DDN Setup - Control PriceAndCostGroup - Property Caption</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 460556690 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:Enable Price/Cost Determin. | ToolTip</source>
+          <target state="translated">Listenpreisberechnung aktivieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control Enable Price/Cost Determin. - Property ToolTip</note>
+        <note>Page DDN Setup - Control Enable Price/Cost Determin. - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 4119417919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Group:VarDimAndMasterDataGroup | Caption</source>
+          <target state="translated">Master, VarDims und Artikelstamm</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control VarDimAndMasterDataGroup - Property Caption</note>
+        <note>Page DDN Setup - Control VarDimAndMasterDataGroup - Property Caption</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 1065312324 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:enable Bom Creation for BI | ToolTip</source>
+          <target state="translated">Wenn dieser Schalter eingeschaltet ist, wird beim Entfalten der Stückliste in der VK-Zeile zuvor eine temporäre Stückliste erzeugt. Mit Hilfe der temporären Stückliste kann die Artikelnummer des Möbels (früher als Set bezeichnet) ermittelt werden. Sie steht dann für BI-Analysen zur Verfügung.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control enable Bom Creation for BI - Property ToolTip</note>
+        <note>Page DDN Setup - Control enable Bom Creation for BI - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 2166960770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:Fabric Item Categories | ToolTip</source>
+          <target state="translated">Bei Artikel, die in den Filter zu den Artikelkategorien passen kann der Gewebeverbrauch eingegeben werden. Dieser wird zusätzlich in eine rInfobox im VK-Auftrag angezeigt.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control Fabric Item Categories - Property ToolTip</note>
+        <note>Page DDN Setup - Control Fabric Item Categories - Property ToolTip</note></trans-unit>
+        <trans-unit id="Page 2053216347 - Control 3719346417 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" approved="yes">
+          <source>Page51000:DDN Setup | Field:Search Table Code ColorGroup | ToolTip</source>
+          <target state="translated">Hier ist eine Suchtabelle zu hinterlegen mit einer Suchspalte für die Farben und bis zu 10 Ergebnisspalten um festzugelgen, ob die Farbe in der Farbauswahlgruppe eingschlossen ist oder nicht.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DDN Setup - Control Search Table Code ColorGroup - Property ToolTip</note>
+        <note>Page DDN Setup - Control Search Table Code ColorGroup - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 4157025888 - Control 327410040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 663549195" approved="yes">
+          <source>Pag51003:DDN Collection Card | Group:DEDON | Caption</source>
+          <target state="translated">DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Collection Card - Control DEDON - Property Caption</note>
+        <note>PageExtension DDN Collection Card - Control DEDON - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2712282487 - Control 1092141375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2594186060" approved="yes">
+          <source>PageExt51015:DDN Container Card | Group:DDNDateGroup | Caption</source>
+          <target state="translated">DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Container Card - Control DDNDateGroup - Property Caption</note>
+        <note>PageExtension DDN Container Card - Control DDNDateGroup - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1940886857 - Control 327410040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4219821699" approved="yes">
+          <source>PageExt51009:DDN G/L Account Card | Group:DEDON | Caption</source>
+          <target state="translated">DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN G/L Account Card - Control DEDON - Property Caption</note>
+        <note>PageExtension DDN G/L Account Card - Control DEDON - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1940886857 - Control 819997750 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4219821699" approved="yes">
+          <source>PageExt51009:DDN G/L Account Card | Field:Confidential | ToolTip</source>
+          <target state="translated">Ein vertrauliches Konto darf nur von bestimmten Benutzern eingesehen werden</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN G/L Account Card - Control Confidential - Property ToolTip</note>
+        <note>PageExtension DDN G/L Account Card - Control Confidential - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2090669913 - Control 3463094411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627" approved="yes">
+          <source>PagExt51006:DDN Item Card | Field:DDN US Tariff No. | ToolTip</source>
+          <target state="translated">Zolltarifnummer, die für die Zollabfertigung in den USA vorgehalten werden muss.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Item Card - Control DDN US Tariff No. - Property ToolTip</note>
+        <note>PageExtension DDN Item Card - Control DDN US Tariff No. - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2090669913 - Control 1136042219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627" approved="yes">
+          <source>PagExt51006:DDN Item Card | Field:DDN List Price | ToolTip</source>
+          <target state="translated">Dieser Preis wird im Hintergrund basierend auf den Preisberechnungsregeln errechnet. Als Basis dient das aktuelle Arbeitsdatum und der Preis, der für "alle Debitoren" hinterlegt ist. Rabatte und kundenspezifische Regelungen sind nicht berücksichtigt.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Item Card - Control DDN List Price - Property ToolTip</note>
+        <note>PageExtension DDN Item Card - Control DDN List Price - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2090669913 - Control 1136042219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627" approved="yes">
+          <source>PagExt51006:DDN Item Card | Field:DDN List Price | Caption</source>
+          <target state="translated">aktuell gültiger Listenpreis</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Item Card - Control DDN List Price - Property Caption</note>
+        <note>PageExtension DDN Item Card - Control DDN List Price - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2090669913 - Control 1761769315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627" approved="yes">
+          <source>PagExt51006:DDN Item Card | Group:DDNGroup | Caption</source>
+          <target state="translated">DEDON-spezifisch</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Item Card - Control DDNGroup - Property Caption</note>
+        <note>PageExtension DDN Item Card - Control DDNGroup - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2090669913 - Control 1230267002 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627" approved="yes">
+          <source>PagExt51006:DDN Item Card | Field:DDN Fabric Consumption | ToolTip</source>
+          <target state="translated">Wird vom verantwortlichen Kissen-Einkäufer verwendet, um nachgelagert Auswertungen über Stoffver-brauch von Kissen zu erstellen.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Item Card - Control DDN Fabric Consumption - Property ToolTip</note>
+        <note>PageExtension DDN Item Card - Control DDN Fabric Consumption - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2320551706 - Action 3392698540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2939490917" approved="yes">
+          <source>PagExt51005:DDN Master Card | Action:deleteRelatedItems | Caption</source>
+          <target state="translated">alle zugehörigen Artikel löschen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Master Card - Action deleteRelatedItems - Property Caption</note>
+        <note>PageExtension DDN Master Card - Action deleteRelatedItems - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2320551706 - Control 3463094411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2939490917" approved="yes">
+          <source>PagExt51005:DDN Master Card | Field:DDN US Tariff No. | ToolTip</source>
+          <target state="translated">Zolltarifnummer, die für die Zollabfertigung in den USA vorgehalten werden muss.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Master Card - Control DDN US Tariff No. - Property ToolTip</note>
+        <note>PageExtension DDN Master Card - Control DDN US Tariff No. - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2320551706 - Control 327410040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2939490917" approved="yes">
+          <source>PagExt51005:DDN Master Card | Group:DEDON | Caption</source>
+          <target state="translated">DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Master Card - Control DEDON - Property Caption</note>
+        <note>PageExtension DDN Master Card - Control DEDON - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2320551706 - Control 2900410762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2939490917" approved="yes">
+          <source>PagExt51005:DDN Master Card | Field:DDN Auto Explode BOM | ToolTip</source>
+          <target state="translated">Stückliste automatisch entfalten</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Master Card - Control DDN Auto Explode BOM - Property ToolTip</note>
+        <note>PageExtension DDN Master Card - Control DDN Auto Explode BOM - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 2320551706 - Control 1711973650 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2939490917" approved="yes">
+          <source>PagExt51005:DDN Master Card | Field:DDN Designer Code | ToolTip</source>
+          <target state="translated">Hier ist der Designer zu hinterlegen, der für den Vekrauf dieses Masters vergütet wird. Der Designer wird in die Auftragszeile übernommen und erhält im Nachgang über die Provisionsabrechnung Gelder.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Master Card - Control DDN Designer Code - Property ToolTip</note>
+        <note>PageExtension DDN Master Card - Control DDN Designer Code - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 1238320299 - Control 2981372481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577" approved="yes">
+          <source>PageExt51023:DDN Purchase Order Subfrom | Field51002:DDN Effective Shipment Date | ToolTip</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Purchase Order Subform - Control DDN Effective Shipment Date - Property ToolTip</note>
+        <note>PageExtension DDN Purchase Order Subform - Control DDN Effective Shipment Date - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 1238320299 - Control 244995685 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577" approved="yes">
+          <source>PageExt51023:DDN Purchase Order Subfrom | Field51001:DDN Estimated Date Ready | ToolTip</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Purchase Order Subform - Control DDN Estimated Date Ready - Property ToolTip</note>
+        <note>PageExtension DDN Purchase Order Subform - Control DDN Estimated Date Ready - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 1238320299 - Control 3439998142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577" approved="yes">
+          <source>PageExt51023:DDN Purchase Order Subfrom | Field51000:DDN Requested Shipment Date | ToolTip</source>
+          <target state="translated">Vom Lieferanten zugesagt</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Purchase Order Subform - Control DDN Requested Shipment Date - Property ToolTip</note>
+        <note>PageExtension DDN Purchase Order Subform - Control DDN Requested Shipment Date - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 3928643386 - Control 3872320957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320" approved="yes">
+          <source>Pag51001:DDN Sales Order Line | Field:DDN Processing Hint Icon | ToolTip</source>
+          <target state="translated">Anhand des Lagerbestands des Artikels und der Verfügbarkeitsprüfung wird ermittelt, ob die Ware in den Warenausgang gegeben werden kann.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Sales Order Line - Control ProcessingHintIcon - Property ToolTip</note>
+        <note>PageExtension DDN Sales Order Line - Control ProcessingHintIcon - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 1520829291 - Control 327410040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1258343441" approved="yes">
+          <source>PagExt51004:DDN Salesperson/Purchaser Card | Group:DEDON | Caption</source>
+          <target state="translated">DEDON</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Salesperson/Purchaser Card - Control DEDON - Property Caption</note>
+        <note>PageExtension DDN Salesperson/Purchaser Card - Control DEDON - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1520829291 - Control 4011581168 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1258343441" approved="yes">
+          <source>PagExt51004:DDN Salesperson/Purchaser Card | Field:DDN Vendor Classification | ToolTip</source>
+          <target state="translated">Hierüber wird unterschieden, ob ein Verkäufer die Rolle eines Designers einnimmt um dem Maste rzugewiesen werden zu können. Dieses Feld ist relevant um den Designer im Zuge der Trimit-Provisionsabrechnung zu vergüten.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Salesperson/Purchaser Card - Control DDN Vendor Classification - Property ToolTip</note>
+        <note>PageExtension DDN Salesperson/Purchaser Card - Control DDN Vendor Classification - Property ToolTip</note></trans-unit>
+        <trans-unit id="PageExtension 830990456 - Control 2595489580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046" approved="yes">
+          <source>PageExt51008:"DDN Ship-to Address" | Group:DDNFaktura | Caption</source>
+          <target state="translated">Fakturierung (DEDON)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Ship-to Address - Control DDNFaktura - Property Caption</note>
+        <note>PageExtension DDN Ship-to Address - Control DDNFaktura - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Method 2836937986 - NamedType 2630001852" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1901559181" approved="yes">
+          <source>Pag51016:DDN Temp Vardim Variants | Label:ConfirmDiffentNumberOfLinesDlg</source>
+          <target state="translated">Die Anzahl der Farben in dieser Übersicht unterscheidet sich von der Anzahl der Farben in den Auswahlgruppen. Soll zur Sicherheit die Markierung von allen aktuell gewählten Farben entfernt werden?</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Method applyColorSelectionGroup - NamedType ConfirmDiffentNumberOfLinesDlg</note>
+        <note>PageExtension DDN Temp Vardim Variants - Method applyColorSelectionGroup - NamedType ConfirmDiffentNumberOfLinesDlg</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 4144877499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Group:ColorSelectionGroups | Caption</source>
+          <target state="translated">Farbauswahlgruppen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroups - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroups - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 3262392909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup1 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 1 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup1 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup1 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 652310957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup10 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 10 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup10 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup10 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 2624696292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup2 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 2 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup2 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup2 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 1986999675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup3 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 3 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup3 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup3 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 1349303058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup4 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 4 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup4 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup4 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 711606441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup5 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 5 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup5 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup5 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 73909824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup6 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 6 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup6 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup6 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 3731180503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup7 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 7 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup7 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup7 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 3093483886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup8 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 8 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup8 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup8 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 1901559181 - Action 2455787269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2914242314" approved="yes">
+          <source>PagExt51016:DDN Temp Vardim Variants | Action:ColorSelectionGroup9 | Caption</source>
+          <target state="translated">Farbauswahlgruppe 9 zuweisen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup9 - Property Caption</note>
+        <note>PageExtension DDN Temp Vardim Variants - Action ColorSelectionGroup9 - Property Caption</note></trans-unit>
+        <trans-unit id="PageExtension 2545156940 - Control 819997750 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938" approved="yes">
+          <source>TableExt51011:DDN User Setup | Field:Access confidential G/L Accout | ToolTip</source>
+          <target state="translated">Ein Haken bedeutet, dass der Benutzer in Kontenplan und der Kontenübersicht jene Konten sieht, die als "confidential" markiert sind. Fehlt dem Benutzer der Haken werden diese Konten ausgeblendet.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DDN User Setup - Control Confidential - Property ToolTip</note>
+        <note>PageExtension DDN User Setup - Control Confidential - Property ToolTip</note></trans-unit>
+        <trans-unit id="TableExtension 1020435028 - Field 499400340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4169148079" approved="yes">
+          <source>Tab51002:DDN Collection | Field51000:DDN Classification | Caption</source>
+          <target state="translated">Klassifizierung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Collection - Field DDN Classification - Property Caption</note>
+        <note>TableExtension DDN Collection - Field DDN Classification - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1020435028 - Field 499400340 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4169148079" approved="yes">
+          <source>Tab51002:DDN Collection | Field51000:DDN Classification | OptionCaption</source>
+          <target state="translated">Kollektion,Katalog</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Collection - Field DDN Classification - Property OptionCaption</note>
+        <note>TableExtension DDN Collection - Field DDN Classification - Property OptionCaption</note></trans-unit>
+        <trans-unit id="TableExtension 4055541950 - Field 205672802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2119908969" approved="yes">
+          <source>TabExt51004:DDN Collection Master Relation | Field51001:DDN Classification | Caption</source>
+          <target state="translated">Unterscheidung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Collection Master Relation - Field DDN Collection Classification - Property Caption</note>
+        <note>TableExtension DDN Collection Master Relation - Field DDN Collection Classification - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 4055541950 - Field 205672802 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2119908969" approved="yes">
+          <source>TabExt51004:DDN Collection Master Relation | Field51001:DDN Classification | OptionCaption</source>
+          <target state="translated">Kollektion,Katalog</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Collection Master Relation - Field DDN Collection Classification - Property OptionCaption</note>
+        <note>TableExtension DDN Collection Master Relation - Field DDN Collection Classification - Property OptionCaption</note></trans-unit>
+        <trans-unit id="TableExtension 2074246179 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2857236056" approved="yes">
+          <source>TableExt51030:DDN Container | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Container - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Container - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2074246179 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2857236056" approved="yes">
+          <source>TableExt51030:DDN Container | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Container - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Container - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2074246179 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2857236056" approved="yes">
+          <source>TableExt51030:DDN Container | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Container - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Container - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1420522693 - NamedType 3148332972" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1420522693" approved="yes">
+          <source>TableExt51018:"DDN G/L Account" | Label:AccountNotAccessableForUserError</source>
+          <target state="translated">Sie dürfen nicht auf das Konto zugreifen</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN G/L Account - NamedType AccountNotAccessableForUserError</note>
+        <note>TableExtension DDN G/L Account - NamedType AccountNotAccessableForUserError</note></trans-unit>
+        <trans-unit id="TableExtension 1420522693 - NamedType 370962971" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1420522693" approved="yes">
+          <source>TableExt51018:"DDN G/L Account" | Label:EditConfidentialFieldEditNotAllowedError</source>
+          <target state="translated">Dieses Konto ist für Ihren Benutzer nicht im Zugriff weil es als "confidential" eingestuft wurde.</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN G/L Account - NamedType ConfidentialFieldEditNotAllowedError</note>
+        <note>TableExtension DDN G/L Account - NamedType ConfidentialFieldEditNotAllowedError</note></trans-unit>
+        <trans-unit id="TableExtension 1420522693 - Field 819997750 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855" approved="yes">
+          <source>TableExt51018:"DDN G/L Account" | Field:Confidentinal | Caption</source>
+          <target state="translated">Confidential</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN G/L Account - Field Confidential - Property Caption</note>
+        <note>TableExtension DDN G/L Account - Field Confidential - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 562059210 - Field 4157975719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060" approved="yes">
+          <source>Table51031:DDN G/L Entry | Field51000:DDN Account confidential | Caption</source>
+          <target state="translated">Sachkonto vertraulich</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN G/L Entry - Field DDN Account confidential - Property Caption</note>
+        <note>TableExtension DDN G/L Entry - Field DDN Account confidential - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779583157 - Field 3775790025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895" approved="yes">
+          <source>TabExt51008:DDN Item | Field51003:DDN Legcy System Item No. | Caption</source>
+          <target state="translated">Artikelnr. Vorsystem (Nav 18)</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item - Field DDM Legacy System Item No. - Property Caption</note>
+        <note>TableExtension DDN Item - Field DDM Legacy System Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779583157 - Field 1230267002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895" approved="yes">
+          <source>TabExt51008:DDN Item | Field51003:Fabric Consumption | Caption</source>
+          <target state="translated">Stoffbedarf</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item - Field DDN Fabric Consumption - Property Caption</note>
+        <note>TableExtension DDN Item - Field DDN Fabric Consumption - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779583157 - Field 446540601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895" approved="yes">
+          <source>TabExt51008:DDN Item | Field51000:DDN indentation | Caption</source>
+          <target state="translated">Einrückung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item - Field DDN Indentation - Property Caption</note>
+        <note>TableExtension DDN Item - Field DDN Indentation - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779583157 - Field 592560921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895" approved="yes">
+          <source>TabExt51008:DDN Item | Field51002:DDN Item Planning Status Code | Caption</source>
+          <target state="translated">Planungsstatus</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item - Field DDN Item Planning Status Code - Property Caption</note>
+        <note>TableExtension DDN Item - Field DDN Item Planning Status Code - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779583157 - Field 3463094411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895" approved="yes">
+          <source>TabExt51008:DDN Item | Field51000:DDN US Tariff No. | Caption</source>
+          <target state="translated">Zollpos. USA</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item - Field DDN US Tariff No. - Property Caption</note>
+        <note>TableExtension DDN Item - Field DDN US Tariff No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2986710238 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192" approved="yes">
+          <source>Tab51015:DDN Item Ledger Entry | Field51001:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item Ledger Entry - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Item Ledger Entry - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2986710238 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192" approved="yes">
+          <source>Tab51015:DDN Item Ledger Entry | Field51000:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Item Ledger Entry - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Item Ledger Entry - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 2900410762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51006:DDN Auto Explode BOM | Caption</source>
+          <target state="translated">Stückliste automatisch entfalten</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Auto Explode BOM - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Auto Explode BOM - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 1380676005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51002:DDN Catalog Relation Filter | Caption</source>
+          <target state="translated">Katalogfilter</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Catalog Relation Filter - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Catalog Relation Filter - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 2006376578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51003:DDN Collection Relation Filter | Caption</source>
+          <target state="translated">Kollektion Filter</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Collection Relation Filter - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Collection Relation Filter - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 1711973650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51004:DDN Designer Code | Caption</source>
+          <target state="translated">Designer</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Designer Code - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Designer Code - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 2949051006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51000:DDN Included in Catalog | Caption</source>
+          <target state="translated">in Katalog gelistet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Included in Catalog - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Included in Catalog - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 2831431041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51001:DDN Included in Collection | Caption</source>
+          <target state="translated">in Kollektion enthalten</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN Included in Collection - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN Included in Collection - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2765635294 - Field 3463094411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1685401849" approved="yes">
+          <source>TabExt51003:DDN Master | Field51005:DDN US Tariff No. | Caption</source>
+          <target state="translated">Zollpos. USA</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Master - Field DDN US Tariff No. - Property Caption</note>
+        <note>TableExtension DDN Master - Field DDN US Tariff No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 805052098 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953" approved="yes">
+          <source>TableExt51028:DDN Purch. Cr. Memo Header | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Header - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Header - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 805052098 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953" approved="yes">
+          <source>TableExt51028:DDN Purch. Cr. Memo Header | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Header - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Header - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 805052098 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953" approved="yes">
+          <source>TableExt51028:DDN Purch. Cr. Memo Header | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Header - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Header - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2587494601 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723" approved="yes">
+          <source>TableExt51029:DDN Purch. Cr. Memo Line | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Line - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Line - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2587494601 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723" approved="yes">
+          <source>TableExt51029:DDN Purch. Cr. Memo Line | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Line - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Line - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2587494601 - Field 2207317239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723" approved="yes">
+          <source>TableExt51029:DDN Purch. Cr. Memo Line | Field51003:DDN Original Qty. | Caption</source>
+          <target state="translated">Ursprungsmenge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Line - Field DDN Original Qty. - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Line - Field DDN Original Qty. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2587494601 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723" approved="yes">
+          <source>TableExt51029:DDN Purch. Cr. Memo Line | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Cr. Memo Line - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Cr. Memo Line - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2625956520 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974" approved="yes">
+          <source>TableExt51026:DDN Purch. Inv. Header | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Header - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Header - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2625956520 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974" approved="yes">
+          <source>TableExt51026:DDN Purch. Inv. Header | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Header - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Header - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2625956520 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974" approved="yes">
+          <source>TableExt51026:DDN Purch. Inv. Header | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Header - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Header - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1824956303 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733" approved="yes">
+          <source>TableExt51027:DDN Purch. Inv. Line | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Line - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Line - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1824956303 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733" approved="yes">
+          <source>TableExt51027:DDN Purch. Inv. Line | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Line - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Line - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1824956303 - Field 2207317239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733" approved="yes">
+          <source>TableExt51027:DDN Purch. Inv. Line | Field51003:DDN Original Qty. | Caption</source>
+          <target state="translated">Ursprungsmenge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Line - Field DDN Original Qty. - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Line - Field DDN Original Qty. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1824956303 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733" approved="yes">
+          <source>TableExt51027:DDN Purch. Inv. Line | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Inv. Line - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Inv. Line - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1328162196 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578" approved="yes">
+          <source>TableExt51024:DDN Purch. Rcpt. Header | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Header - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Header - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1328162196 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578" approved="yes">
+          <source>TableExt51024:DDN Purch. Rcpt. Header | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Header - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Header - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1328162196 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578" approved="yes">
+          <source>TableExt51024:DDN Purch. Rcpt. Header | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Header - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Header - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2295519131 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265" approved="yes">
+          <source>TableExt51025:DDN Purch. Rcpt. Line | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Line - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Line - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2295519131 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265" approved="yes">
+          <source>TableExt51025:DDN Purch. Rcpt. Line | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Line - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Line - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2295519131 - Field 2207317239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265" approved="yes">
+          <source>TableExt51025:DDN Purch. Rcpt. Line | Field51003:DDN Original Qty. | Caption</source>
+          <target state="translated">Ursprungsmenge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Line - Field DDN Original Qty. - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Line - Field DDN Original Qty. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2295519131 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265" approved="yes">
+          <source>TableExt51025:DDN Purch. Rcpt. Line | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purch. Rcpt. Line - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purch. Rcpt. Line - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2339008534 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664" approved="yes">
+          <source>TableExt51020:DDN Purchase Header | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Header - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2339008534 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664" approved="yes">
+          <source>TableExt51020:DDN Purchase Header | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purchase Header - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2339008534 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664" approved="yes">
+          <source>TableExt51020:DDN Purchase Header | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Header - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1730269236 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146271610" approved="yes">
+          <source>TableExt51022:DDN Purchase Header Archive | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header Archive - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Header Archive - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1730269236 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146271610" approved="yes">
+          <source>TableExt51022:DDN Purchase Header Archive | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header Archive - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purchase Header Archive - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1730269236 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146271610" approved="yes">
+          <source>TableExt51022:DDN Purchase Header Archive | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Header Archive - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Header Archive - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 598734845 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599" approved="yes">
+          <source>TableExt51021:DDN Purchase Line | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Line - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 598734845 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599" approved="yes">
+          <source>TableExt51021:DDN Purchase Line | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purchase Line - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 598734845 - Field 2207317239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599" approved="yes">
+          <source>TableExt51021:DDN Purchase Line | Field51003:DDN Original Qty. | Caption</source>
+          <target state="translated">Ursprungsmenge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line - Field DDN Original Qty. - Property Caption</note>
+        <note>TableExtension DDN Purchase Line - Field DDN Original Qty. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 598734845 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599" approved="yes">
+          <source>TableExt51021:DDN Purchase Line | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Line - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 3301894635 - Field 2981372481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2809873457" approved="yes">
+          <source>TableExt51023:DDN Purchase Line Archive | Field51002:DDN Effective Shipment Date | Caption</source>
+          <target state="translated">Tatsächliches Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line Archive - Field DDN Effective Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Line Archive - Field DDN Effective Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 3301894635 - Field 244995685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2809873457" approved="yes">
+          <source>TableExt51023:DDN Purchase Line Archive | Field51001:DDN Estimated Date Ready | Caption</source>
+          <target state="translated">Zugesagtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line Archive - Field DDN Estimated Date Ready - Property Caption</note>
+        <note>TableExtension DDN Purchase Line Archive - Field DDN Estimated Date Ready - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 3301894635 - Field 2207317239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2809873457" approved="yes">
+          <source>TableExt51023:DDN Purchase Line Archive | Field51003:DDN Original Qty. | Caption</source>
+          <target state="translated">Ursprungsmenge</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line Archive - Field DDN Original Qty. - Property Caption</note>
+        <note>TableExtension DDN Purchase Line Archive - Field DDN Original Qty. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 3301894635 - Field 3439998142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2809873457" approved="yes">
+          <source>TableExt51023:DDN Purchase Line Archive | Field51000:DDN Requested Shipment Date | Caption</source>
+          <target state="translated">Gewünschtes Versanddatum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Purchase Line Archive - Field DDN Requested Shipment Date - Property Caption</note>
+        <note>TableExtension DDN Purchase Line Archive - Field DDN Requested Shipment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1661802128 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286" approved="yes">
+          <source>Tab51011:DDN Sales Cr.Memo Header | Field51000:DDN Order Intake Date | Caption</source>
+          <target state="translated">Intake Datum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Cr.Memo Header - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Cr.Memo Header - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1086560343 - Field 3405183947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325" approved="yes">
+          <source>Tab51012:DDN Sales Cr.Memo Line | Field51000:DDN Lock Shipment Date | Caption</source>
+          <target state="translated">Warenausgangsdatum fixieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Cr.Memo Line - Field DDN lock Shiment Date - Property Caption</note>
+        <note>TableExtension DDN Sales Cr.Memo Line - Field DDN lock Shiment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1086560343 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325" approved="yes">
+          <source>Tab51012:DDN Sales Cr.Memo Line | Field51009:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Cr.Memo Line - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Sales Cr.Memo Line - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1086560343 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325" approved="yes">
+          <source>Tab51012:DDN Sales Cr.Memo Line | Field51008:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Cr.Memo Line - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Sales Cr.Memo Line - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1563568083 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785" approved="yes">
+          <source>Tab51000:DDN Sales Header | Field51000:DDN Order Intake Date | Caption</source>
+          <target state="translated">erstellt am</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Header - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Header - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 3134007653 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1948788855" approved="yes">
+          <source>Tab51006:DDN Sales Header Archive | Field51000:DDN Order Intake Date | Caption</source>
+          <target state="translated">erstellt am</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Header Archive - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Header Archive - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2094860820 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682" approved="yes">
+          <source>Tab51009:DDN Sales Invoice Header | Field51000:DDN Order Intake Date | Caption</source>
+          <target state="translated">Intake Datum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Invoice Header - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Invoice Header - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2980607003 - Field 3405183947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865" approved="yes">
+          <source>Tab51010:DDN Sales Invoice Line | Field51000:DDN Lock Shipment Date | Caption</source>
+          <target state="translated">Warenausgangsdatum fixieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Invoice Line - Field DDN lock Shiment Date - Property Caption</note>
+        <note>TableExtension DDN Sales Invoice Line - Field DDN lock Shiment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2980607003 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865" approved="yes">
+          <source>Tab51010:DDN Sales Invoice Line | Field51009:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet	</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Invoice Line - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Sales Invoice Line - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2980607003 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865" approved="yes">
+          <source>Tab51010:DDN Sales Invoice Line | Field51008:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Invoice Line - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Sales Invoice Line - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 3405183947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51000:DDN Lock Shipment Date | Caption</source>
+          <target state="translated">Warenausgangsdatum fixieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN lock Shiment Date - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN lock Shiment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Header | Field51005:DDN Order Intake Date | Caption</source>
+          <target state="translated">erstellt am</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 1339614711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51004:DDN Order Released | Caption</source>
+          <target state="translated">Auftrag freigegeben</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Order Released - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Order Released - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 589209634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51001:DDN Processing Hint | Caption</source>
+          <target state="translated">Hinweis</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Processing Hint - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Processing Hint - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 589209634 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51001:DDN Processing Hint | OptionCaption</source>
+          <target state="translated">,Lagerbestand ausreichend,Lagerbestand kritisch,kein Lagerbestand</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Processing Hint - Property OptionCaption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Processing Hint - Property OptionCaption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 609871223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51002:DDN Processing Hint Icon | Caption</source>
+          <target state="translated">Bestandshinweis</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Processing Hint Icon - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Processing Hint Icon - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 2413201575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51006:DDN Sales Header Status | Caption</source>
+          <target state="translated">Handlungshinweis Icon</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Sales Header Status - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Sales Header Status - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51007:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51008:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 502663180 - Field 1646491294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010" approved="yes">
+          <source>Tab51001:DDN Sales Line | Field51003:DDN Shipment Delyed | Caption</source>
+          <target state="translated">Versand verzögert</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line - Field DDN Shipment Delayed - Property Caption</note>
+        <note>TableExtension DDN Sales Line - Field DDN Shipment Delayed - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 922099118 - Field 3405183947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224" approved="yes">
+          <source>Tab51007.Field51000:DDNLockShipmentDate.Caption</source>
+          <target state="translated">Warenausgangsdatum fixieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line Archive - Field DDN lock Shiment Date - Property Caption</note>
+        <note>TableExtension DDN Sales Line Archive - Field DDN lock Shiment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 922099118 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224" approved="yes">
+          <source>Tab51007:DDN Sales Header | Field51005:DDN Order Intake Date | Caption</source>
+          <target state="translated">erstellt am</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line Archive - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Line Archive - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 922099118 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224" approved="yes">
+          <source>Tab51007:DDN Sales Line Archive | Field51009:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line Archive - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Sales Line Archive - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 922099118 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224" approved="yes">
+          <source>Tab51007:DDN Sales Line Archive | Field51008:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Line Archive - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Sales Line Archive - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2636307251 - Field 2661444140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297" approved="yes">
+          <source>Tab51013:DDN Sales Shipment Header | Field51000:DDN Order Intake Date | Caption</source>
+          <target state="translated">Intake Datum</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Shipment Header - Field DDN Order Intake Date - Property Caption</note>
+        <note>TableExtension DDN Sales Shipment Header - Field DDN Order Intake Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779503980 - Field 3405183947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978" approved="yes">
+          <source>Tab51014:DDN Sales Line | Field51000:DDN Lock Shipment Date | Caption</source>
+          <target state="translated">Warenausgangsdatum fixieren</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Shipment Line - Field DDN lock Shiment Date - Property Caption</note>
+        <note>TableExtension DDN Sales Shipment Line - Field DDN lock Shiment Date - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779503980 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978" approved="yes">
+          <source>Tab51014:DDN Sales Shipment Line | Field51009:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Shipment Line - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Sales Shipment Line - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 1779503980 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978" approved="yes">
+          <source>Tab51014:DDN Sales Shipment Line | Field51008:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Sales Shipment Line - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Sales Shipment Line - Field DDN Set Master No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 870140943 - Field 4011581168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325" approved="yes">
+          <source>TabExt51005:"DDN Salesperson/Purchaser" | Field:"DDN Vendor Classification" | Caption</source>
+          <target state="translated">Klassifizierung</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Salesperson/Purchaser - Field DDN Vendor Classification - Property Caption</note>
+        <note>TableExtension DDN Salesperson/Purchaser - Field DDN Vendor Classification - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 870140943 - Field 4011581168 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325" approved="yes">
+          <source>TabExt51005:"DDN Salesperson/Purchaser" | Field:"DDN Vendor Classification" | OptionCaption</source>
+          <target state="translated">Verkäufer,Designer</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Salesperson/Purchaser - Field DDN Vendor Classification - Property OptionCaption</note>
+        <note>TableExtension DDN Salesperson/Purchaser - Field DDN Vendor Classification - Property OptionCaption</note></trans-unit>
+        <trans-unit id="TableExtension 830990456 - Field 633819257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046" approved="yes">
+          <source>TableExt51017:DDN Ship-to Address | Field:Gen. Bus. Posting Group | Caption</source>
+          <target state="translated">Geschäftsbuchungsgruppe</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Ship-to Address - Field Gen. Bus. Posting Group - Property Caption</note>
+        <note>TableExtension DDN Ship-to Address - Field Gen. Bus. Posting Group - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 830990456 - Field 4281108633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046" approved="yes">
+          <source>TableExt51017:DDN Ship-to Address | Field:Tax Area ID | Caption</source>
+          <target state="translated">Tax Area ID</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Ship-to Address - Field Tax Area ID - Property Caption</note>
+        <note>TableExtension DDN Ship-to Address - Field Tax Area ID - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 830990456 - Field 1844012642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046" approved="yes">
+          <source>TableExt51017:DDN Ship-to Address | Field:VAT Bus. Posting Group | Caption</source>
+          <target state="translated">MwSt. Gesch</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Ship-to Address - Field VAT Bus. Posting Group - Property Caption</note>
+        <note>TableExtension DDN Ship-to Address - Field VAT Bus. Posting Group - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 2545156940 - Field 237492327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938" approved="yes">
+          <source>TableExt51019:DDN User Setup | Field:Access confidential G/L Accout | Caption</source>
+          <target state="translated">Zugriff auf Confidential-Konten erlaubt</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN User Setup - Field Access confidential G/L Accout - Property Caption</note>
+        <note>TableExtension DDN User Setup - Field Access confidential G/L Accout - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 74910691 - Field 4230043810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 467645625" approved="yes">
+          <source>Tab51016:DDN Value Entry | Field51001:DDN Set Item No. | Caption</source>
+          <target state="translated">Artikel Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Value Entry - Field DDN Set Item No. - Property Caption</note>
+        <note>TableExtension DDN Value Entry - Field DDN Set Item No. - Property Caption</note></trans-unit>
+        <trans-unit id="TableExtension 74910691 - Field 2911827209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 467645625" approved="yes">
+          <source>Tab51016:DDN Value Entry | Field51000:DDN Set Master No. | Caption</source>
+          <target state="translated">Master Nr. übergeordnet</target><note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DDN Value Entry - Field DDN Set Master No. - Property Caption</note>
+        <note>TableExtension DDN Value Entry - Field DDN Set Master No. - Property Caption</note></trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

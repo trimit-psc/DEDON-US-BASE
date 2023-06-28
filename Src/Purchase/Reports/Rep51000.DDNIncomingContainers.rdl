@@ -1,0 +1,1583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>ecd389a3-748b-4e71-973e-8788c4cf2636</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Tablix Name="Tablix1">
+            <TablixBody>
+              <TablixColumns>
+                <TablixColumn>
+                  <Width>3.36905in</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>4.90675in</Width>
+                </TablixColumn>
+              </TablixColumns>
+              <TablixRows>
+                <TablixRow>
+                  <Height>0.98458in</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox18">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Aktuell sind </Value>
+                                  <Style>
+                                    <FontFamily>Calibri</FontFamily>
+                                    <FontSize>18pt</FontSize>
+                                  </Style>
+                                </TextRun>
+                                <TextRun>
+                                  <Label>Anz</Label>
+                                  <Value>=Count(Fields!No.Value)</Value>
+                                  <Style>
+                                    <FontFamily>Calibri</FontFamily>
+                                    <FontSize>18pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                  </Style>
+                                </TextRun>
+                                <TextRun>
+                                  <Value> eingehende Container unterwegs</Value>
+                                  <Style>
+                                    <FontFamily>Calibri</FontFamily>
+                                    <FontSize>18pt</FontSize>
+                                  </Style>
+                                </TextRun>
+                                <TextRun>
+                                  <Value>⛴</Value>
+                                  <Style>
+                                    <FontStyle>Normal</FontStyle>
+                                    <FontFamily>Consolas</FontFamily>
+                                    <FontSize>0.08333in</FontSize>
+                                    <FontWeight>Normal</FontWeight>
+                                    <TextDecoration>None</TextDecoration>
+                                    <Color>#ce9178</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Left</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox18</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
+                              <Color>DimGray</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <BackgroundColor>White</BackgroundColor>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="ContainerContent_OutstandingAmountLcy3">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Gesamtwarenwert </Value>
+                                  <Style>
+                                    <FontFamily>Calibri</FontFamily>
+                                    <FontSize>19pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Format>=Fields!ContainerContent_OutstandingAmountLcyFormat.Value</Format>
+                                  </Style>
+                                </TextRun>
+                                <TextRun>
+                                  <Label>SumAmount</Label>
+                                  <Value>=Sum(Fields!ContainerContent_OutstandingAmountLcy.Value)</Value>
+                                  <Style>
+                                    <FontFamily>Calibri</FontFamily>
+                                    <FontSize>22pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Format>=Fields!ContainerContent_OutstandingAmountLcyFormat.Value</Format>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Right</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>ContainerContent_OutstandingAmountLcy2</rd:DefaultName>
+                          <ZIndex>3</ZIndex>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
+                              <Color>DimGray</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+                <TablixRow>
+                  <Height>1.53304in</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Rectangle Name="Rectangle3">
+                          <ReportItems>
+                            <Tablix Name="Tablix2">
+                              <TablixBody>
+                                <TablixColumns>
+                                  <TablixColumn>
+                                    <Width>1in</Width>
+                                  </TablixColumn>
+                                  <TablixColumn>
+                                    <Width>2.36905in</Width>
+                                  </TablixColumn>
+                                </TablixColumns>
+                                <TablixRows>
+                                  <TablixRow>
+                                    <Height>0.74995in</Height>
+                                    <TablixCells>
+                                      <TablixCell>
+                                        <CellContents>
+                                          <Rectangle Name="Rectangle2">
+                                            <ReportItems>
+                                              <Image Name="Image1">
+                                                <Source>Embedded</Source>
+                                                <Value>Vessel</Value>
+                                                <Sizing>FitProportional</Sizing>
+                                                <Top>0.24995in</Top>
+                                                <Left>0.5in</Left>
+                                                <Height>0.5in</Height>
+                                                <Width>0.5in</Width>
+                                                <Visibility>
+                                                  <Hidden>=iif(Fields!Container_OnBoard.Value=1, false, true)</Hidden>
+                                                </Visibility>
+                                                <Style>
+                                                  <Border>
+                                                    <Style>None</Style>
+                                                  </Border>
+                                                </Style>
+                                              </Image>
+                                            </ReportItems>
+                                            <KeepTogether>true</KeepTogether>
+                                            <Style>
+                                              <Border>
+                                                <Style>None</Style>
+                                              </Border>
+                                            </Style>
+                                          </Rectangle>
+                                        </CellContents>
+                                      </TablixCell>
+                                      <TablixCell>
+                                        <CellContents>
+                                          <Image Name="Image5">
+                                            <Source>Embedded</Source>
+                                            <Value>Container</Value>
+                                            <Sizing>FitProportional</Sizing>
+                                            <Style>
+                                              <Border>
+                                                <Style>None</Style>
+                                              </Border>
+                                              <PaddingTop>10pt</PaddingTop>
+                                            </Style>
+                                          </Image>
+                                        </CellContents>
+                                      </TablixCell>
+                                    </TablixCells>
+                                  </TablixRow>
+                                  <TablixRow>
+                                    <Height>0.21812in</Height>
+                                    <TablixCells>
+                                      <TablixCell>
+                                        <CellContents>
+                                          <Textbox Name="Container_ContainerID1">
+                                            <CanGrow>true</CanGrow>
+                                            <KeepTogether>true</KeepTogether>
+                                            <Paragraphs>
+                                              <Paragraph>
+                                                <TextRuns>
+                                                  <TextRun>
+                                                    <Value>=Fields!Container_ContainerID.Value</Value>
+                                                    <Style>
+                                                      <FontFamily>Courier New</FontFamily>
+                                                      <FontWeight>Bold</FontWeight>
+                                                    </Style>
+                                                  </TextRun>
+                                                </TextRuns>
+                                                <Style>
+                                                  <TextAlign>Center</TextAlign>
+                                                </Style>
+                                              </Paragraph>
+                                            </Paragraphs>
+                                            <rd:DefaultName>Container_ContainerID1</rd:DefaultName>
+                                            <ZIndex>2</ZIndex>
+                                            <Style>
+                                              <Border>
+                                                <Style>None</Style>
+                                              </Border>
+                                              <PaddingLeft>2pt</PaddingLeft>
+                                              <PaddingRight>2pt</PaddingRight>
+                                              <PaddingTop>2pt</PaddingTop>
+                                              <PaddingBottom>2pt</PaddingBottom>
+                                            </Style>
+                                          </Textbox>
+                                          <ColSpan>2</ColSpan>
+                                        </CellContents>
+                                      </TablixCell>
+                                      <TablixCell />
+                                    </TablixCells>
+                                  </TablixRow>
+                                  <TablixRow>
+                                    <Height>0.56497in</Height>
+                                    <TablixCells>
+                                      <TablixCell>
+                                        <CellContents>
+                                          <GaugePanel Name="GaugePanel4">
+                                            <LinearGauges>
+                                              <LinearGauge Name="LinearGauge1">
+                                                <GaugeScales>
+                                                  <LinearScale Name="Transportfortschritt">
+                                                    <GaugePointers>
+                                                      <LinearPointer Name="LinearPointer1">
+                                                        <Type>Bar</Type>
+                                                        <Thermometer>
+                                                          <Style />
+                                                        </Thermometer>
+                                                        <Style>
+                                                          <Border>
+                                                            <Style>None</Style>
+                                                          </Border>
+                                                          <BackgroundColor>Black</BackgroundColor>
+                                                          <BackgroundGradientType>None</BackgroundGradientType>
+                                                          <BackgroundGradientEndColor>Orange</BackgroundGradientEndColor>
+                                                          <BackgroundHatchType>None</BackgroundHatchType>
+                                                          <ShadowOffset>1pt</ShadowOffset>
+                                                        </Style>
+                                                        <GaugeInputValue>
+                                                          <Value>=Fields!Container_TransitPercent.Value</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </GaugeInputValue>
+                                                        <PointerImage>
+                                                          <OffsetX>0pt</OffsetX>
+                                                          <OffsetY>0pt</OffsetY>
+                                                          <Source>External</Source>
+                                                          <Value />
+                                                        </PointerImage>
+                                                        <MarkerLength>25</MarkerLength>
+                                                        <MarkerStyle>Wedge</MarkerStyle>
+                                                        <Placement>Cross</Placement>
+                                                        <Width>10</Width>
+                                                      </LinearPointer>
+                                                    </GaugePointers>
+                                                    <ScaleRanges>
+                                                      <ScaleRange Name="LinearRange1">
+                                                        <Style>
+                                                          <Border>
+                                                            <Color>Silver</Color>
+                                                            <Style>Solid</Style>
+                                                          </Border>
+                                                          <BackgroundColor>#999999</BackgroundColor>
+                                                          <BackgroundGradientType>DiagonalLeft</BackgroundGradientType>
+                                                          <BackgroundGradientEndColor>Salmon</BackgroundGradientEndColor>
+                                                          <BackgroundHatchType>None</BackgroundHatchType>
+                                                          <ShadowOffset>0pt</ShadowOffset>
+                                                        </Style>
+                                                        <BackgroundGradientType>None</BackgroundGradientType>
+                                                        <DistanceFromScale>0</DistanceFromScale>
+                                                        <StartValue>
+                                                          <Value>0</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </StartValue>
+                                                        <EndValue>
+                                                          <Value>20</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </EndValue>
+                                                        <StartWidth>30</StartWidth>
+                                                        <EndWidth>30</EndWidth>
+                                                        <Placement>Cross</Placement>
+                                                      </ScaleRange>
+                                                      <ScaleRange Name="LinearRange2">
+                                                        <Style>
+                                                          <Border>
+                                                            <Color>Silver</Color>
+                                                            <Style>Solid</Style>
+                                                          </Border>
+                                                          <BackgroundColor>Silver</BackgroundColor>
+                                                          <BackgroundGradientType>DiagonalLeft</BackgroundGradientType>
+                                                          <BackgroundGradientEndColor>Salmon</BackgroundGradientEndColor>
+                                                          <BackgroundHatchType>None</BackgroundHatchType>
+                                                          <ShadowOffset>0pt</ShadowOffset>
+                                                        </Style>
+                                                        <BackgroundGradientType>None</BackgroundGradientType>
+                                                        <DistanceFromScale>0</DistanceFromScale>
+                                                        <StartValue>
+                                                          <Value>20</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </StartValue>
+                                                        <EndValue>
+                                                          <Value>40</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </EndValue>
+                                                        <StartWidth>30</StartWidth>
+                                                        <EndWidth>30</EndWidth>
+                                                        <Placement>Cross</Placement>
+                                                      </ScaleRange>
+                                                      <ScaleRange Name="LinearRange3">
+                                                        <Style>
+                                                          <Border>
+                                                            <Color>Silver</Color>
+                                                            <Style>Solid</Style>
+                                                          </Border>
+                                                          <BackgroundColor>#e6e6e6</BackgroundColor>
+                                                          <BackgroundGradientType>DiagonalLeft</BackgroundGradientType>
+                                                          <BackgroundGradientEndColor>Salmon</BackgroundGradientEndColor>
+                                                          <BackgroundHatchType>None</BackgroundHatchType>
+                                                          <ShadowOffset>0pt</ShadowOffset>
+                                                        </Style>
+                                                        <BackgroundGradientType>None</BackgroundGradientType>
+                                                        <DistanceFromScale>0</DistanceFromScale>
+                                                        <StartValue>
+                                                          <Value>40</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </StartValue>
+                                                        <EndValue>
+                                                          <Value>100</Value>
+                                                          <Multiplier>1</Multiplier>
+                                                        </EndValue>
+                                                        <StartWidth>30</StartWidth>
+                                                        <EndWidth>30</EndWidth>
+                                                        <Placement>Cross</Placement>
+                                                      </ScaleRange>
+                                                    </ScaleRanges>
+                                                    <Style>
+                                                      <Border>
+                                                        <Style>None</Style>
+                                                      </Border>
+                                                      <BackgroundColor>#00ffffff</BackgroundColor>
+                                                      <BackgroundGradientType>None</BackgroundGradientType>
+                                                      <BackgroundGradientEndColor>White</BackgroundGradientEndColor>
+                                                      <BackgroundHatchType>None</BackgroundHatchType>
+                                                      <ShadowOffset>0pt</ShadowOffset>
+                                                    </Style>
+                                                    <CustomLabels>
+                                                      <CustomLabel Name="Start">
+                                                        <Style />
+                                                        <Text>=Fields!Container_TransitStartDate.Value</Text>
+                                                        <DistanceFromScale>10</DistanceFromScale>
+                                                        <TickMarkStyle>
+                                                          <Style>
+                                                            <Border>
+                                                              <Color>DimGray</Color>
+                                                              <Style>Solid</Style>
+                                                            </Border>
+                                                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                                          </Style>
+                                                          <Placement>Cross</Placement>
+                                                          <TickMarkImage>
+                                                            <Source>External</Source>
+                                                            <Value />
+                                                          </TickMarkImage>
+                                                          <Length>6</Length>
+                                                          <Width>6</Width>
+                                                        </TickMarkStyle>
+                                                        <Value>0</Value>
+                                                      </CustomLabel>
+                                                      <CustomLabel Name="Ende">
+                                                        <Style />
+                                                        <Text>=Fields!Container_TransitEndDate.Value</Text>
+                                                        <DistanceFromScale>10</DistanceFromScale>
+                                                        <TickMarkStyle>
+                                                          <Style>
+                                                            <Border>
+                                                              <Color>DimGray</Color>
+                                                              <Style>Solid</Style>
+                                                            </Border>
+                                                            <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                                          </Style>
+                                                          <Placement>Cross</Placement>
+                                                          <TickMarkImage>
+                                                            <Source>External</Source>
+                                                            <Value />
+                                                          </TickMarkImage>
+                                                          <Length>6</Length>
+                                                          <Width>6</Width>
+                                                        </TickMarkStyle>
+                                                        <Value>100</Value>
+                                                      </CustomLabel>
+                                                    </CustomLabels>
+                                                    <Interval>NaN</Interval>
+                                                    <IntervalOffset>NaN</IntervalOffset>
+                                                    <MaximumValue>
+                                                      <Value>100</Value>
+                                                      <Multiplier>1</Multiplier>
+                                                    </MaximumValue>
+                                                    <MinimumValue>
+                                                      <Value>0</Value>
+                                                      <Multiplier>1</Multiplier>
+                                                    </MinimumValue>
+                                                    <GaugeMajorTickMarks>
+                                                      <Interval>NaN</Interval>
+                                                      <IntervalOffset>NaN</IntervalOffset>
+                                                      <Style>
+                                                        <Border>
+                                                          <Color>DimGray</Color>
+                                                          <Style>None</Style>
+                                                        </Border>
+                                                        <BackgroundColor>DimGray</BackgroundColor>
+                                                      </Style>
+                                                      <DistanceFromScale>-20</DistanceFromScale>
+                                                      <Placement>Cross</Placement>
+                                                      <TickMarkImage>
+                                                        <Source>External</Source>
+                                                        <Value />
+                                                      </TickMarkImage>
+                                                      <Length>5</Length>
+                                                      <Width>0.5</Width>
+                                                    </GaugeMajorTickMarks>
+                                                    <GaugeMinorTickMarks>
+                                                      <Interval>NaN</Interval>
+                                                      <IntervalOffset>NaN</IntervalOffset>
+                                                      <Style>
+                                                        <Border>
+                                                          <Color>DimGray</Color>
+                                                          <Style>None</Style>
+                                                        </Border>
+                                                        <BackgroundColor>DimGray</BackgroundColor>
+                                                      </Style>
+                                                      <Placement>Cross</Placement>
+                                                      <TickMarkImage>
+                                                        <Source>External</Source>
+                                                        <Value />
+                                                      </TickMarkImage>
+                                                      <Length>9</Length>
+                                                      <Width>1</Width>
+                                                      <Hidden>true</Hidden>
+                                                    </GaugeMinorTickMarks>
+                                                    <MaximumPin>
+                                                      <PinLabel>
+                                                        <Style>
+                                                          <FontSize>12pt</FontSize>
+                                                        </Style>
+                                                        <DistanceFromScale>0</DistanceFromScale>
+                                                      </PinLabel>
+                                                      <Style>
+                                                        <Border>
+                                                          <Color>DimGray</Color>
+                                                          <Style>Solid</Style>
+                                                        </Border>
+                                                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                                      </Style>
+                                                      <Placement>Cross</Placement>
+                                                      <TickMarkImage>
+                                                        <Source>External</Source>
+                                                        <Value />
+                                                      </TickMarkImage>
+                                                      <Length>6</Length>
+                                                      <Width>6</Width>
+                                                      <Shape>Circle</Shape>
+                                                    </MaximumPin>
+                                                    <MinimumPin>
+                                                      <PinLabel>
+                                                        <Style>
+                                                          <FontSize>12pt</FontSize>
+                                                        </Style>
+                                                        <DistanceFromScale>0</DistanceFromScale>
+                                                      </PinLabel>
+                                                      <Style>
+                                                        <Border>
+                                                          <Color>DimGray</Color>
+                                                          <Style>Solid</Style>
+                                                        </Border>
+                                                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                                      </Style>
+                                                      <Placement>Cross</Placement>
+                                                      <TickMarkImage>
+                                                        <Source>External</Source>
+                                                        <Value />
+                                                      </TickMarkImage>
+                                                      <Length>6</Length>
+                                                      <Width>6</Width>
+                                                      <Shape>Circle</Shape>
+                                                    </MinimumPin>
+                                                    <ScaleLabels>
+                                                      <Style>
+                                                        <FontSize>14pt</FontSize>
+                                                        <Format>0\%</Format>
+                                                        <Color>#404040</Color>
+                                                      </Style>
+                                                      <Interval>NaN</Interval>
+                                                      <IntervalOffset>NaN</IntervalOffset>
+                                                      <DistanceFromScale>20</DistanceFromScale>
+                                                      <Placement>Outside</Placement>
+                                                      <RotateLabels>true</RotateLabels>
+                                                      <ShowEndLabels>true</ShowEndLabels>
+                                                      <UseFontPercent>true</UseFontPercent>
+                                                    </ScaleLabels>
+                                                    <Width>0</Width>
+                                                  </LinearScale>
+                                                </GaugeScales>
+                                                <BackFrame>
+                                                  <Style>
+                                                    <Border>
+                                                      <Style>None</Style>
+                                                    </Border>
+                                                    <BackgroundColor>WhiteSmoke</BackgroundColor>
+                                                    <BackgroundGradientType>HorizontalCenter</BackgroundGradientType>
+                                                    <BackgroundGradientEndColor>DarkGray</BackgroundGradientEndColor>
+                                                    <BackgroundHatchType>None</BackgroundHatchType>
+                                                    <ShadowOffset>0pt</ShadowOffset>
+                                                  </Style>
+                                                  <FrameShape>AutoShape</FrameShape>
+                                                  <FrameBackground>
+                                                    <Style>
+                                                      <BackgroundColor>Gainsboro</BackgroundColor>
+                                                      <BackgroundGradientType>DiagonalLeft</BackgroundGradientType>
+                                                      <BackgroundGradientEndColor>WhiteSmoke</BackgroundGradientEndColor>
+                                                      <BackgroundHatchType>None</BackgroundHatchType>
+                                                    </Style>
+                                                  </FrameBackground>
+                                                  <FrameImage>
+                                                    <Source>External</Source>
+                                                    <Value />
+                                                  </FrameImage>
+                                                </BackFrame>
+                                                <TopImage>
+                                                  <Source>External</Source>
+                                                  <Value />
+                                                </TopImage>
+                                                <AspectRatio>NaN</AspectRatio>
+                                                <Height>100</Height>
+                                                <Width>100</Width>
+                                              </LinearGauge>
+                                            </LinearGauges>
+                                            <AutoLayout>true</AutoLayout>
+                                            <BackFrame>
+                                              <Style>
+                                                <Border>
+                                                  <Style>None</Style>
+                                                </Border>
+                                                <BackgroundColor>Gainsboro</BackgroundColor>
+                                                <BackgroundGradientType>None</BackgroundGradientType>
+                                                <BackgroundGradientEndColor>Gray</BackgroundGradientEndColor>
+                                                <BackgroundHatchType>None</BackgroundHatchType>
+                                                <ShadowOffset>0pt</ShadowOffset>
+                                              </Style>
+                                              <FrameBackground>
+                                                <Style>
+                                                  <BackgroundColor>Silver</BackgroundColor>
+                                                  <BackgroundGradientType>DiagonalLeft</BackgroundGradientType>
+                                                  <BackgroundGradientEndColor>Gray</BackgroundGradientEndColor>
+                                                  <BackgroundHatchType>None</BackgroundHatchType>
+                                                </Style>
+                                              </FrameBackground>
+                                              <FrameImage>
+                                                <Source>External</Source>
+                                                <Value />
+                                              </FrameImage>
+                                            </BackFrame>
+                                            <TopImage>
+                                              <Source>External</Source>
+                                              <Value />
+                                            </TopImage>
+                                            <DataSetName>DataSet_Result</DataSetName>
+                                            <ZIndex>1</ZIndex>
+                                            <Style>
+                                              <Border>
+                                                <Color>#adcde5</Color>
+                                                <Style>None</Style>
+                                                <Width>2pt</Width>
+                                              </Border>
+                                              <BackgroundColor>White</BackgroundColor>
+                                            </Style>
+                                          </GaugePanel>
+                                          <ColSpan>2</ColSpan>
+                                        </CellContents>
+                                      </TablixCell>
+                                      <TablixCell />
+                                    </TablixCells>
+                                  </TablixRow>
+                                </TablixRows>
+                              </TablixBody>
+                              <TablixColumnHierarchy>
+                                <TablixMembers>
+                                  <TablixMember />
+                                  <TablixMember />
+                                </TablixMembers>
+                              </TablixColumnHierarchy>
+                              <TablixRowHierarchy>
+                                <TablixMembers>
+                                  <TablixMember />
+                                  <TablixMember />
+                                  <TablixMember />
+                                </TablixMembers>
+                              </TablixRowHierarchy>
+                              <Top>0in</Top>
+                              <Left>0in</Left>
+                              <Height>1.53304in</Height>
+                              <Width>3.36905in</Width>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                              </Style>
+                            </Tablix>
+                          </ReportItems>
+                          <KeepTogether>true</KeepTogether>
+                          <Style>
+                            <Border>
+                              <Color>DimGray</Color>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
+                              <Color>DimGray</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                          </Style>
+                        </Rectangle>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Tablix Name="Tablix5">
+                          <TablixBody>
+                            <TablixColumns>
+                              <TablixColumn>
+                                <Width>0.90079in</Width>
+                              </TablixColumn>
+                              <TablixColumn>
+                                <Width>0.74603in</Width>
+                              </TablixColumn>
+                              <TablixColumn>
+                                <Width>2.35913in</Width>
+                              </TablixColumn>
+                              <TablixColumn>
+                                <Width>0.90079in</Width>
+                              </TablixColumn>
+                            </TablixColumns>
+                            <TablixRows>
+                              <TablixRow>
+                                <Height>0.22704in</Height>
+                                <TablixCells>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox20">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Belegnr</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style>
+                                              <TextAlign>Left</TextAlign>
+                                            </Style>
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox20</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>10pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox88">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Menge</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style>
+                                              <TextAlign>Right</TextAlign>
+                                            </Style>
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox88</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>10pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox81">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Beschreibung</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox81</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox2">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Warenwert</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style>
+                                              <TextAlign>Right</TextAlign>
+                                            </Style>
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox2</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                </TablixCells>
+                              </TablixRow>
+                              <TablixRow>
+                                <Height>0.39196in</Height>
+                                <TablixCells>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="ContainerContent_DocumentNo">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Label>DocNo</Label>
+                                                <Value>=Fields!ContainerContent_DocumentNo.Value</Value>
+                                                <ActionInfo>
+                                                  <Actions>
+                                                    <Action>
+                                                      <Hyperlink>=Fields!ContainerContent_LinkToDocument.Value</Hyperlink>
+                                                    </Action>
+                                                  </Actions>
+                                                </ActionInfo>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <TextDecoration>Underline</TextDecoration>
+                                                  <Color>Blue</Color>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Zeile </Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <TextDecoration>None</TextDecoration>
+                                                </Style>
+                                              </TextRun>
+                                              <TextRun>
+                                                <Label>LineNo</Label>
+                                                <Value>=Fields!ContainerContent_DocumentLineNo.Value</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <TextDecoration>None</TextDecoration>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>ContainerContent_DocumentNo</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>10pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="ContainerContent_OutstandingQuantity">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>=Fields!ContainerContent_OutstandingQuantity.Value</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>ContainerContent_OutstandingQuantity</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>10pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="ContainerContent_Description">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>=Fields!ContainerContent_Description.Value</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>=Fields!ContainerContent_Description2.Value</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>ContainerContent_Description</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="ContainerContent_OutstandingAmountLcy">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>=Fields!ContainerContent_OutstandingAmountLcy.Value</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <Format>=Fields!ContainerContent_OutstandingAmountLcyFormat.Value</Format>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>ContainerContent_OutstandingAmountLcy</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                </TablixCells>
+                              </TablixRow>
+                              <TablixRow>
+                                <Height>0.91404in</Height>
+                                <TablixCells>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox22">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value />
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox22</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox13">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value />
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style />
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox13</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="Textbox14">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>Summe in diesem Container</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style>
+                                              <TextAlign>Right</TextAlign>
+                                            </Style>
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>Textbox14</rd:DefaultName>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                      <rd:Selected>true</rd:Selected>
+                                    </CellContents>
+                                  </TablixCell>
+                                  <TablixCell>
+                                    <CellContents>
+                                      <Textbox Name="ContainerContent_OutstandingAmountLcy2">
+                                        <CanGrow>true</CanGrow>
+                                        <KeepTogether>true</KeepTogether>
+                                        <Paragraphs>
+                                          <Paragraph>
+                                            <TextRuns>
+                                              <TextRun>
+                                                <Value>=Sum(Fields!ContainerContent_OutstandingAmountLcy.Value)</Value>
+                                                <Style>
+                                                  <FontFamily>Calibri</FontFamily>
+                                                  <FontWeight>Bold</FontWeight>
+                                                  <Format>=Fields!ContainerContent_OutstandingAmountLcyFormat.Value</Format>
+                                                </Style>
+                                              </TextRun>
+                                            </TextRuns>
+                                            <Style>
+                                              <TextAlign>Right</TextAlign>
+                                            </Style>
+                                          </Paragraph>
+                                        </Paragraphs>
+                                        <rd:DefaultName>ContainerContent_OutstandingAmountLcy2</rd:DefaultName>
+                                        <ZIndex>3</ZIndex>
+                                        <Style>
+                                          <Border>
+                                            <Style>None</Style>
+                                          </Border>
+                                          <TopBorder>
+                                            <Color>Black</Color>
+                                            <Style>Double</Style>
+                                            <Width>1pt</Width>
+                                          </TopBorder>
+                                          <PaddingLeft>2pt</PaddingLeft>
+                                          <PaddingRight>2pt</PaddingRight>
+                                          <PaddingTop>2pt</PaddingTop>
+                                          <PaddingBottom>2pt</PaddingBottom>
+                                        </Style>
+                                      </Textbox>
+                                    </CellContents>
+                                  </TablixCell>
+                                </TablixCells>
+                              </TablixRow>
+                            </TablixRows>
+                          </TablixBody>
+                          <TablixColumnHierarchy>
+                            <TablixMembers>
+                              <TablixMember />
+                              <TablixMember />
+                              <TablixMember />
+                              <TablixMember />
+                            </TablixMembers>
+                          </TablixColumnHierarchy>
+                          <TablixRowHierarchy>
+                            <TablixMembers>
+                              <TablixMember>
+                                <KeepWithGroup>After</KeepWithGroup>
+                              </TablixMember>
+                              <TablixMember>
+                                <Group Name="Details" />
+                              </TablixMember>
+                              <TablixMember>
+                                <KeepWithGroup>Before</KeepWithGroup>
+                              </TablixMember>
+                            </TablixMembers>
+                          </TablixRowHierarchy>
+                          <DataSetName>DataSet_Result</DataSetName>
+                          <Style>
+                            <Border>
+                              <Color>DimGray</Color>
+                              <Style>None</Style>
+                            </Border>
+                            <BottomBorder>
+                              <Color>DimGray</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                          </Style>
+                        </Tablix>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+              </TablixRows>
+            </TablixBody>
+            <TablixColumnHierarchy>
+              <TablixMembers>
+                <TablixMember />
+                <TablixMember />
+              </TablixMembers>
+            </TablixColumnHierarchy>
+            <TablixRowHierarchy>
+              <TablixMembers>
+                <TablixMember />
+                <TablixMember>
+                  <Group Name="No">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!No.Value</GroupExpression>
+                    </GroupExpressions>
+                  </Group>
+                  <SortExpressions>
+                    <SortExpression>
+                      <Value>=Fields!No.Value</Value>
+                    </SortExpression>
+                  </SortExpressions>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixMember>
+              </TablixMembers>
+            </TablixRowHierarchy>
+            <DataSetName>DataSet_Result</DataSetName>
+            <Top>0in</Top>
+            <Left>0in</Left>
+            <Height>2.51762in</Height>
+            <Width>8.2758in</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Tablix>
+        </ReportItems>
+        <Height>2.85691in</Height>
+        <Style />
+      </Body>
+      <Width>8.2758in</Width>
+      <Page>
+        <PageHeader>
+          <Height>0.48413in</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="Textbox1">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Schwimmende Ware</Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Ausdruck vom </Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                    <TextRun>
+                      <Value>=Globals!ExecutionTime</Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>Textbox1</rd:DefaultName>
+              <Top>0in</Top>
+              <Left>0in</Left>
+              <Height>0.47024in</Height>
+              <Width>2.72024in</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageHeader>
+        <PageFooter>
+          <Height>0.34524in</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="Textbox23">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Seite </Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                    <TextRun>
+                      <Value>=Globals!PageNumber</Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                    <TextRun>
+                      <Value> von </Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                    <TextRun>
+                      <Value>=Globals!OverallPageNumber</Value>
+                      <Style>
+                        <FontFamily>Calibri</FontFamily>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style>
+                    <TextAlign>Right</TextAlign>
+                  </Style>
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>Textbox23</rd:DefaultName>
+              <Top>0.09524in</Top>
+              <Left>4.91666in</Left>
+              <Height>0.25in</Height>
+              <Width>3.35913in</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageFooter>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <EmbeddedImages>
+    <EmbeddedImage Name="Vessel">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+    <EmbeddedImage Name="Container">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="PurchOrderNoCaption_gLbl">
+          <DataField>PurchOrderNoCaption_gLbl</DataField>
+        </Field>
+        <Field Name="VendorNoCaption_gLbl">
+          <DataField>VendorNoCaption_gLbl</DataField>
+        </Field>
+        <Field Name="FreightContainerIDCaption_gLbl">
+          <DataField>FreightContainerIDCaption_gLbl</DataField>
+        </Field>
+        <Field Name="PurchOrderLineNoCaption_gLbl">
+          <DataField>PurchOrderLineNoCaption_gLbl</DataField>
+        </Field>
+        <Field Name="QuantityCaption_gLbl">
+          <DataField>QuantityCaption_gLbl</DataField>
+        </Field>
+        <Field Name="StatusCaption_gLbl">
+          <DataField>StatusCaption_gLbl</DataField>
+        </Field>
+        <Field Name="ItemNoCaption_gLbl">
+          <DataField>ItemNoCaption_gLbl</DataField>
+        </Field>
+        <Field Name="ItemDescriptionCaption_gLbl">
+          <DataField>ItemDescriptionCaption_gLbl</DataField>
+        </Field>
+        <Field Name="ETACaption_gLbl">
+          <DataField>ETACaption_gLbl</DataField>
+        </Field>
+        <Field Name="ETDCaption_gLbl">
+          <DataField>ETDCaption_gLbl</DataField>
+        </Field>
+        <Field Name="AmountCaption_gLbl">
+          <DataField>AmountCaption_gLbl</DataField>
+        </Field>
+        <Field Name="ContainerNoCaption_gLbl">
+          <DataField>ContainerNoCaption_gLbl</DataField>
+        </Field>
+        <Field Name="VendorPostingGroupCaption_gLbl">
+          <DataField>VendorPostingGroupCaption_gLbl</DataField>
+        </Field>
+        <Field Name="MainAreaIndicator">
+          <DataField>MainAreaIndicator</DataField>
+        </Field>
+        <Field Name="No">
+          <DataField>No</DataField>
+        </Field>
+        <Field Name="Container_ContainerID">
+          <DataField>Container_ContainerID</DataField>
+        </Field>
+        <Field Name="Container_Description">
+          <DataField>Container_Description</DataField>
+        </Field>
+        <Field Name="Container_Description2">
+          <DataField>Container_Description2</DataField>
+        </Field>
+        <Field Name="Container_DDNEffectiveShipmentDate">
+          <DataField>Container_DDNEffectiveShipmentDate</DataField>
+        </Field>
+        <Field Name="Container_DDNEstimatedDateReady">
+          <DataField>Container_DDNEstimatedDateReady</DataField>
+        </Field>
+        <Field Name="Container_DDNRequestedShipmentDate">
+          <DataField>Container_DDNRequestedShipmentDate</DataField>
+        </Field>
+        <Field Name="Container_TransitPercent">
+          <DataField>Container_TransitPercent</DataField>
+        </Field>
+        <Field Name="Container_TransitPercentFormat">
+          <DataField>Container_TransitPercentFormat</DataField>
+        </Field>
+        <Field Name="Container_TransitStartDate">
+          <DataField>Container_TransitStartDate</DataField>
+        </Field>
+        <Field Name="Container_TransitEndDate">
+          <DataField>Container_TransitEndDate</DataField>
+        </Field>
+        <Field Name="Container_Posting_Date">
+          <DataField>Container_Posting_Date</DataField>
+        </Field>
+        <Field Name="Container_ContainerDetail">
+          <DataField>Container_ContainerDetail</DataField>
+        </Field>
+        <Field Name="Container_OnBoard">
+          <DataField>Container_OnBoard</DataField>
+        </Field>
+        <Field Name="Status">
+          <DataField>Status</DataField>
+        </Field>
+        <Field Name="ContainerContent_Description">
+          <DataField>ContainerContent_Description</DataField>
+        </Field>
+        <Field Name="ContainerContent_Description2">
+          <DataField>ContainerContent_Description2</DataField>
+        </Field>
+        <Field Name="ContainerContent_OutstandingQuantity">
+          <DataField>ContainerContent_OutstandingQuantity</DataField>
+        </Field>
+        <Field Name="ContainerContent_OutstandingQuantityFormat">
+          <DataField>ContainerContent_OutstandingQuantityFormat</DataField>
+        </Field>
+        <Field Name="ContainerContent_OutstandingAmountLcy">
+          <DataField>ContainerContent_OutstandingAmountLcy</DataField>
+        </Field>
+        <Field Name="ContainerContent_OutstandingAmountLcyFormat">
+          <DataField>ContainerContent_OutstandingAmountLcyFormat</DataField>
+        </Field>
+        <Field Name="ContainerContent_DocumentNo">
+          <DataField>ContainerContent_DocumentNo</DataField>
+        </Field>
+        <Field Name="ContainerContent_DocumentLineNo">
+          <DataField>ContainerContent_DocumentLineNo</DataField>
+        </Field>
+        <Field Name="ContainerContent_LinkToDocument">
+          <DataField>ContainerContent_LinkToDocument</DataField>
+        </Field>
+        <Field Name="RelatedPurchLine_gRec_Buy_from_Vendor_No">
+          <DataField>RelatedPurchLine_gRec_Buy_from_Vendor_No</DataField>
+        </Field>
+        <Field Name="RelatedItem_gRec_No">
+          <DataField>RelatedItem_gRec_No</DataField>
+        </Field>
+        <Field Name="RelatedItem_gRec_Description">
+          <DataField>RelatedItem_gRec_Description</DataField>
+        </Field>
+        <Field Name="RelatedPurchLine_gRec_Expected_Receipt_Date">
+          <DataField>RelatedPurchLine_gRec_Expected_Receipt_Date</DataField>
+        </Field>
+        <Field Name="Vendor_Vendor_Posting_Group">
+          <DataField>Vendor_Vendor_Posting_Group</DataField>
+        </Field>
+        <Field Name="SumsAreaIndicator">
+          <DataField>SumsAreaIndicator</DataField>
+        </Field>
+        <Field Name="SumLineNo">
+          <DataField>SumLineNo</DataField>
+        </Field>
+        <Field Name="SumVendorPostingGroup_gCod">
+          <DataField>SumVendorPostingGroup_gCod</DataField>
+        </Field>
+        <Field Name="SumValueVendorPostingGroup_gDec">
+          <DataField>SumValueVendorPostingGroup_gDec</DataField>
+        </Field>
+        <Field Name="SumValueVendorPostingGroup_gDecFormat">
+          <DataField>SumValueVendorPostingGroup_gDecFormat</DataField>
+        </Field>
+        <Field Name="SumLineCaption_gTxt">
+          <DataField>SumLineCaption_gTxt</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
